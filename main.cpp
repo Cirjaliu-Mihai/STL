@@ -36,7 +36,6 @@ int main()
             {
                 int d = distance(begin(specialities), k);
                 specialities[d] = "Acceptat";
-                cout << "s a gasit la poz " << d << endl;
             }
                 
         }
