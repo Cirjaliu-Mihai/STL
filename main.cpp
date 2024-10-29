@@ -28,6 +28,6 @@ int main()
         inFile >> speciality;
         cout << name << ' ' << speciality << '\n';
     }
-    //test
+    //test 2
     return 0;
 }
